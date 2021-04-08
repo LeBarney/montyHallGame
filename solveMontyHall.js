@@ -21,6 +21,7 @@ if(userChoice === "car"){
 }
 triesCount++;
 }
-console.log(`you won ${nbWins} cars by swapping door`)
+console.log(`you won ${nbWins} cars`)
+
 
 
